@@ -1,4 +1,4 @@
-# Trident PowerInlet for Schaffner FN284-4-06  
+# Trident skirt for Schaffner FN284-4-06  
   
 Voron Trident skirt mod for the Schaffner FN284-4-06 combined power inlet.  
 Using two M3 FHCS with nuts to mount it to the skirt.
